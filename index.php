@@ -93,7 +93,7 @@
                 </div>
 
                 <div class="col-lg-5 mt-5 mt-lg-0 text-center">
-                    <img src="hero5.png"
+                    <img src="hero.png"
                          class="hero-image img-fluid"
                          alt="hero-image">
                 </div>
